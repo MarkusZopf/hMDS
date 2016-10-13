@@ -18,3 +18,13 @@ If you plan to refer to <i>h</i>MDS in your publications, please cite
   website = {https://github.com/AIPHES/hMDS}
 }
 ```
+##Description
+
+TODO: add corpus description
+
+##Obtaining the Corpus
+To obtain the corpus, please contact one of the following persons:
+
+* [Markus Zopf](https://www.aiphes.tu-darmstadt.de/de/aiphes/people/doctoral-researchers/markus-zopf)
+* [Maxime Peyrard](https://www.aiphes.tu-darmstadt.de/de/aiphes/people/doctoral-researchers/maxime-peyrard)
+* [Judith Eckle-Kohler](https://www.ukp.tu-darmstadt.de/people/senior-staff/dr-judith-eckle-kohler)
