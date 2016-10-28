@@ -1,5 +1,5 @@
-# <i>h</i>MDS
-<i>h</i>MDS is a <i>heterogeneous</i> multi-document summarization corpus built with a novel corpus construction approach. It consists of 91 topics coming from 3 different domains. You can find the guidelines, which were used by the annotators to create the corpus, in the [Guidelines.md](Guidelines.md) file.
+# The <i>h</i>MDS Corpus
+The <i>h</i>MDS corpus is a <i>heterogeneous</i> multi-document summarization corpus built with a novel corpus construction approach. It consists of 91 topics coming from 3 different domains. You can find the guidelines, which were used by the annotators to create the corpus, in the [Guidelines.md](Guidelines.md) file.
 
 ##Reference
 If you plan to refer to <i>h</i>MDS in your publications, please cite [the corresponding Coling 2016 paper](https://www.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_AIPHES/publications/2016/2016_COLING_hMDS_cameraReady.pdf):
