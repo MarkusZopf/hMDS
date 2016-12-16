@@ -13,7 +13,7 @@ If you plan to refer to <i>h</i>MDS in your publications, please cite [the corre
   year      = {2016},
   address   = {Osaka, Japan},
   publisher = {Association for Computational Linguistics},
-  pages     = {(to appear)},
+  pages     = {1535--1545},
   url       = {https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_AIPHES/publications/2016/2016_COLING_hMDS_cameraReady.pdf},
   website = {https://github.com/AIPHES/hMDS}
 }
