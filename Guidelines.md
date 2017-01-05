@@ -83,15 +83,25 @@ Canadian
 
 ### 8. Store the type of the source (format: "id:type") below the matching text.
 Possible types are:
+
 1: article, e.g. news/high quality (blog) article (e.g. bbc.com, spiegel.de, ... )
+
 2: forum post, e.g. blog/forum post (e.g., reddit, ), question answering site (e.g. quora, stackoverflow), youtube comments (low quality due to missing context)
+
 3: twitter: very short, including possibly other microblogs
+
 4: organization, e.g. announcements (company, NHL, ...), press releases, and other texts which have been written with the purpose of advertisement, also including commercial descriptions, e.g. for a book or a picture
+
 5: encyclopedic short, e.g.  urban dictionary, duden, IMDB database, statistic sources
+
 6: encyclopedic long, e.g. wiki (Wikipedia, wiki.ubuntu.com, ...), legislative text
+
 7: social media, e.g. facebook, google+
+
 8: scientific, e.g. scientific articles (containing citations and a bibliography), book reviews
+
 9: education, e.g. tutorial, text book
+
 10: dialogues, e.g. interviews, transcripts, discussions, texts with opinions from different persons (e.g. Merkel says X, Obama says Y, Putin says Z)
 
 Example of file "04.txt":
