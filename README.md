@@ -20,6 +20,6 @@ If you plan to refer to <i>h</i>MDS in your publications, please cite [the corre
 ```
 
 ## Obtaining the Corpus
-The public parts of the corpus can be found in the [hMDS file](hMDS_public.zip). Due to copyright restrictions, we are not able to make the full corpus directly available. The subfolder "input", as described in the readme.txt in the hMDS archive files, is missing. To mitigate this issue, we added link lists containing references to the web pages included in the corpus (see [Guidelines.md] (Guidelines.md), step 6 for details) which allows an automatic crawling of the corpus.
+The public parts of the corpus can be found in the [hMDS file](hMDS_public.zip). Due to copyright restrictions, we are not able to make the full corpus directly available. The subfolder "input", as described in the readme.txt in the hMDS archive files, is missing. To mitigate this issue, we added link lists containing references to the web pages included in the corpus (see [Guidelines.md](Guidelines.md), step 6 for details) which allows an automatic crawling of the corpus.
 
 Please let us know in case you are interested in obtaining the full corpus. Contact details can be found on the [AIPHES webpage](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp).
